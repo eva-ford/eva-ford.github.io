@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/HELLO-WORLD"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hello-world"
+	}
+}
